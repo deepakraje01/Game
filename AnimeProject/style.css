@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#nav{
+    background-color: red;
+    display: flex;
+    /* text-align: center; */
+}
+#nav h3{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    justify-content: space-around;
+}
